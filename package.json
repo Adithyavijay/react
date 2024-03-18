@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a react course ",
+  "main": "app.js",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adithyavijay/react.git"
+  },
+  "author": "Adithya vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adithyavijay/react/issues"
+  },
+  "homepage": "https://github.com/Adithyavijay/react#readme"
+}
